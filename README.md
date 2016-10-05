@@ -3,4 +3,4 @@ A data scrambler which accepts *bit dat and 32 bit entropy and scrambles it usin
 
 this Project includes both Verilog design and Test-bench to run tests.
 
-Rum "" command to run the test
+Rum "" command to run the test.
